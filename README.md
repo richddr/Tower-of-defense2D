@@ -10,3 +10,5 @@ containing all the physic laws needed in the game.
 
 We use the allegro 4.2.2 graphic library that allows us to manage all the multimedia
 resources used in the game, that is images, sprites, music, etc.
+
+Created by Michael Romano (mike809) & Richard Garcia (richddr)
